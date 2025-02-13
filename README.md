@@ -1,2 +1,2 @@
 # GranTiete
-Projeto de site para a faculdade Grantietê.
+Repositorio usado para projetos das aulas de Engenharia da computação.
